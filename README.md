@@ -11,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshTD&layout=compact&theme=tokyonight" />
 </p>
 
+
+### Tech Stack
+
 <!-- Languages -->
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -49,6 +52,5 @@ A CLI-based habit and progress tracker with XP logic.
 **Tech:** C++  
 **Repo:** [Progress Tracker](https://github.com/karshTD/<repo-name>)
 
-### Tech Stack
 
 
