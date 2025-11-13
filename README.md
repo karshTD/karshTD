@@ -1,4 +1,4 @@
-## trynna learn to code so I can afford shoes and cars 
+## learning to code so I can afford shoes and cars 
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" />
