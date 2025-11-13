@@ -1,5 +1,4 @@
-## learning to code so I can afford shoes and cars 
-### GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" />
 </p>
