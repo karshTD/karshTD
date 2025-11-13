@@ -1,52 +1,15 @@
-### GitHub Stats
 
-<table>
-  <tr>
-    <!-- Left Column: Stats -->
-    <td width="60%">
-      
-      <!-- Streak + Stats Side-by-Side -->
-      <table>
-        <tr>
-          <td>
-            <img 
-              src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" 
-              alt="Streak Stats" 
-            />
-          </td>
-          <td>
-            <img 
-              src="https://github-readme-stats.vercel.app/api?username=karshTD&show_icons=true&theme=tokyonight" 
-              alt="GitHub Stats" 
-            />
-          </td>
-        </tr>
-      </table>
-
-    </td>
-
-    <!-- Right Column: Aesthetic Cat -->
-    <td width="40%" align="center">
-      <img 
-        src="https://media.tenor.com/Od4KYnT0zZsAAAAi/cat-cute.gif" 
-        width="230px" 
-        alt="Cute Cat"
-      />
-      <br>
-      <sub><i>coding with meow energy</i></sub>
-    </td>
-
-  </tr>
-</table>
-
-<!-- Top Languages below for clean separation -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshTD&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karshTD&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshTD&layout=compact&theme=tokyonight" />
+</p>
 
 ### Tech Stack
 
