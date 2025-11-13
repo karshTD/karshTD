@@ -1,14 +1,50 @@
+### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <!-- Left Column: Stats -->
+    <td width="60%">
+      
+      <!-- Streak + Stats Side-by-Side -->
+      <table>
+        <tr>
+          <td>
+            <img 
+              src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight" 
+              alt="Streak Stats" 
+            />
+          </td>
+          <td>
+            <img 
+              src="https://github-readme-stats.vercel.app/api?username=karshTD&show_icons=true&theme=tokyonight" 
+              alt="GitHub Stats" 
+            />
+          </td>
+        </tr>
+      </table>
 
+    </td>
+
+    <!-- Right Column: Aesthetic Cat -->
+    <td width="40%" align="center">
+      <img 
+        src="https://media.tenor.com/Od4KYnT0zZsAAAAi/cat-cute.gif" 
+        width="230px" 
+        alt="Cute Cat"
+      />
+      <br>
+      <sub><i>coding with meow energy</i></sub>
+    </td>
+
+  </tr>
+</table>
+
+<!-- Top Languages below for clean separation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karshTD&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshTD&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karshTD&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+  />
 </p>
 
 
@@ -55,4 +91,4 @@ A CLI-based habit and progress tracker with XP logic.
 #### 🟧 Arduino + SQL Data Logger (IoT Project)
 An IoT setup where sensor data collected via Arduino is pushed into an SQL database for storage, analysis, and automation triggers.  
 **Tech:** Arduino, C/C++, MySQL (or SQLite), Serial Communication  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karshTD&repo=<your-repo>&theme=tokyonight)](https://github.com/karshTD/<your-repo>)
+
