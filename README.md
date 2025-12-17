@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karshTD&theme=tokyonight&hide_border=false&border_color=1a1b26&background=0d111700&show_icons=true&ring_color=7aa2f7&fire=ff9e64" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
