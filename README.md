@@ -50,7 +50,5 @@ A CLI-based habit and progress tracker with XP logic.
 **Tech:** C++  
 **Repo:** [Progress Tracker](https://github.com/karshTD/<repo-name>)
 
-#### 🟧 Arduino + SQL Data Logger (IoT Project)
-An IoT setup where sensor data collected via Arduino is pushed into an SQL database for storage, analysis, and automation triggers.  
-**Tech:** Arduino, C/C++, MySQL (or SQLite), Serial Communication  
+ 
 
