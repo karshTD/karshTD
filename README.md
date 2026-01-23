@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karshTD&theme=dark)](https://git.io/streak-stats)
 ### Tech Stack
 
 <!-- Languages -->
