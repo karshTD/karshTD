@@ -4,3 +4,6 @@
 
  
 
+<p align="center">
+  <img src="https://giphy.com" width="300" alt="Flying Plane Animation">
+</p>
